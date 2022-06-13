@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "42686946844",
+    "project_id": "inicio-ab27a",
+    "storage_bucket": "inicio-ab27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42686946844:android:67acf10636d01ffe87c9d9",
+        "android_client_info": {
+          "package_name": "com.mycompany.formulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42686946844-e96ng3f5s1sfp9h2jeorefn7n2nf95b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.formulario",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "42686946844-f5vhhgu3esnbn3ovu0059m49qne3s3mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvRFzZ9BrHfw6fFerF7TQ4Sh1Upy_EZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42686946844-f5vhhgu3esnbn3ovu0059m49qne3s3mq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42686946844-0o4n5cro6ns56lk6o87hnnr20mln08og.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyecto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42686946844:android:f857de5607321dfd87c9d9",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42686946844-f5vhhgu3esnbn3ovu0059m49qne3s3mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvRFzZ9BrHfw6fFerF7TQ4Sh1Upy_EZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42686946844-f5vhhgu3esnbn3ovu0059m49qne3s3mq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42686946844-0o4n5cro6ns56lk6o87hnnr20mln08og.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyecto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
